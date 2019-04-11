@@ -1,0 +1,6 @@
+C:\Users\Alejandro\Desktop\TP1 - Calculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\TP1 - Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\TP1 - Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\TP1 - Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\TP1 - Calculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\TP1 - Calculadora\Entidades\obj\Debug\Entidades.pdb
