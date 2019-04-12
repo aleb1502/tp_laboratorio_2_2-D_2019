@@ -113,7 +113,7 @@ namespace Entidades
         /// </summary>
         /// <param name="n1"></param>
         /// <param name="n2"></param>
-        /// <returns></returns>
+        /// <returns></returns> El resultado de la suma
         public static double operator +(Numero n1, Numero n2)
         {
             double resultadoSuma = 0;
@@ -128,7 +128,7 @@ namespace Entidades
         /// </summary>
         /// <param name="n1"></param>
         /// <param name="n2"></param>
-        /// <returns></returns>
+        /// <returns></returns> El resultado de la resta
         public static double operator -(Numero n1, Numero n2)
         {
             double resultadoResta = 0;
@@ -143,7 +143,7 @@ namespace Entidades
         /// </summary>
         /// <param name="n1"></param>
         /// <param name="n2"></param>
-        /// <returns></returns>
+        /// <returns></returns> El resultado de multiplicar
         public static double operator *(Numero n1, Numero n2)
         {
             double resultadoMultiplicacion = 0;
@@ -158,7 +158,7 @@ namespace Entidades
         /// </summary>
         /// <param name="n1"></param>
         /// <param name="n2"></param>
-        /// <returns></returns>
+        /// <returns></returns> El resultado de la division
         public static double operator /(Numero n1, Numero n2)
         {
             double resultadoDivision = 0;
@@ -172,7 +172,7 @@ namespace Entidades
         /// Valida que el numero sea numerico
         /// </summary>
         /// <param name="numero"></param>
-        /// <returns></returns>
+        /// <returns></returns> El valor numerico
         private double ValidarNumero(string numero)
         {
             double value = 0;
