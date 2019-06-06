@@ -1,0 +1,44 @@
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Archivos.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Archivos.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb
