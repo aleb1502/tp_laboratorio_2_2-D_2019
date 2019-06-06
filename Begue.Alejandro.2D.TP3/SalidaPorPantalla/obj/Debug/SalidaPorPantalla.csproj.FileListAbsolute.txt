@@ -1,0 +1,48 @@
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Archivos.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Abstractas.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Excepciones.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Archivos.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Abstractas.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Excepciones.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CoreCompileInputs.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Archivos.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Abstractas.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Excepciones.dll
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Archivos.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Abstractas.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Excepciones.pdb
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CoreCompileInputs.cache
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+E:\Laboratorio2(2019)\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Archivos.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Abstractas.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Excepciones.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Archivos.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Abstractas.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\bin\Debug\Excepciones.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\Begue.Alejandro.2D.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb
