@@ -1,0 +1,13 @@
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\bin\Debug\Entidades.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\bin\Debug\Entidades.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete

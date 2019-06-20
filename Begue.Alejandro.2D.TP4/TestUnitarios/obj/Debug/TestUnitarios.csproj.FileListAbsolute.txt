@@ -1,0 +1,16 @@
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\TestUnitarios.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\TestUnitarios.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Entidades.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Entidades.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\obj\Debug\TestUnitarios.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\TestUnitarios\obj\Debug\TestUnitarios.pdb

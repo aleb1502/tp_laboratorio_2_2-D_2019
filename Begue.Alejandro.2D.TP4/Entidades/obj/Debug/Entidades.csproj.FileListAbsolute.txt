@@ -1,0 +1,6 @@
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\Entidades\bin\Debug\Entidades.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\Entidades\bin\Debug\Entidades.pdb
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\Entidades\obj\Debug\Entidades.dll
+S:\Laboratorio2\Ejercicios2019\EjerciciosGuia\TemasSegundoParcial\Begue.Alejandro.2D.TP4\Entidades\obj\Debug\Entidades.pdb
