@@ -1,0 +1,12 @@
+C:\Users\Alejandro\Desktop\Repaso\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\Repaso\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\Repaso\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Repaso\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Repaso\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\Repaso\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\nuevo\tp_laboratorio_2_2-D_2019\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.pdb
